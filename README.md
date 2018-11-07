@@ -1,23 +1,12 @@
+# Quand tu telecharge le fichier, creer un dossier nomme src (source) et mettre tout les fichiers sauf pour starter_packages, change_log.txt, copyright.txt et README.md. Ensuite, dans le dossier src, creer un autre dossier nomme pacman. Dans le dossier pacman, entre les fichiers nommes controllers, entries, game, Executor.class, et Executor.java. 
+# Apres cela, continuer avec le README
+
 # Pacman vs Ghosts Simulator v6.2
 
 A Java implementation of the game [Ms. Pac-Man](https://en.wikipedia.org/wiki/Ms._Pac-Man)
 for the *Ms Pac-Man vs Ghosts Competition* that ran in 2011-2012. The code is written by [Philipp Rohlfshagen](https://www.linkedin.com/in/philipp-rohlfshagen-6b602219)
 based on earlier implementations of the game by [Simon Lucas](http://dces.essex.ac.uk/staff/lucas/) 
 and [David Robles](https://www.linkedin.com/in/drobles).
-
-# Run Software
-
-##1. Download
-
-Clone this repository:
-
-```
-git clone git@github.com:davidrobles/pacman-vs-ghosts.git
-```
-
-or download the zip file:
-
-[pacman-vs-ghosts-v6.2.zip](https://github.com/davidrobles/pacman-vs-ghosts/archive/master.zip)
 
 ##4. Run the Code
 You can execute the code by running the class:
